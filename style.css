@@ -149,7 +149,7 @@ header p {
     right: 5px;
     width: 18px;
     height: 18px;
-    opacity: 1;
+    opacity: 2;
     cursor: pointer;
     z-index: 10;
 }
